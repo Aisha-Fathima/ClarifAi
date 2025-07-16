@@ -1,38 +1,41 @@
 # ClarifAi
 
+An AI-powered tutoring platform with voice-enabled agents, customizable tutors, session history, and more — built with Next.js, Supabase, Vercel, and Clerk.
 
-### Check out my live site
+---
 
-[ClarifAi](https://clarifai-ten.vercel.app/)
+## 🔗 Live Demo
 
+ [ClarifAi](https://clarifai-ten.vercel.app/)
 
-## <a name="features"> Features</a>
+---
 
- - **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
+##  Table of Contents
 
- - **Authentication**: Secure user sign-up and sign-in with Clerk; Google authentication and many more.
+- [Features](#-features)
+- [Installation](#️-installation)
+- [Environment Variables](#-environment-variables)
+- [Running the Project](#-running-the-project)
+- [Contributions](#-contributions)
 
- - **Billing & Subscriptions**: Easily manage plans, upgrades, and payment details.
+---
 
-- **Bookmarks and Session History**: Let users organise their learning by bookmarking tutors and accessing previous sessions.
+##  Features
 
-- **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
+- **AI Voice Agents**: Take tutoring sessions with AI tutors specialized in subjects of your choice.
+- **Authentication**: Secure sign-up and sign-in with Clerk, including Google OAuth.
+- **Billing & Subscriptions**: Manage plans, upgrades, and payment details with ease.
+- **Bookmarks & Session History**: Organize your learning by bookmarking tutors and accessing previous sessions.
+- **Code Reusability**: Modular codebase and reusable components for scalable development.
+- **Create a Tutor**: Build your own AI tutors — choose the subject, topic, and conversation style.
+- **Cross-Device Compatibility**: Fully responsive design for desktop, tablet, and mobile.
+- **Database Integration**: Real-time data handling using Supabase.
+- **Clean UI/UX**: Sleek, responsive interface built with Tailwind CSS and shadcn/ui.
+- **Scalable Tech Stack**: Built on Next.js for performance and scalability.
+- **Search Functionality**: Quickly find tutors with robust filtering and search tools.
+- **Modularity**: Emphasis on reusability and clean architecture.
 
-- **Create a Tutor**: Create your own AI tutors, choosing a subject, topic, and style of conversation.
-
-- **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
-
-- **Database Integration**: Uses Supabase for real-time data handling and storage needs.
-
-- **Clean UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
-
-- **Scalable Tech Stack**: Built with Next.js for a fast, production-ready web application that scales seamlessly.
-
-- **Search Functionality**: Find tutors quickly with robust filters and search bar.
-
-- **Modularity**: Resuable Code Architecture.
-
-
+---
 
 **Installation**
 
@@ -73,4 +76,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
