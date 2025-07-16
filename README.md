@@ -25,7 +25,7 @@
 
 - **Search Functionality**: Find tutors quickly with robust filters and search bar.
 
-and many more, including code architecture and reusability.
+- **Modularity**: Resuable Code Architecture.
 
 
 
