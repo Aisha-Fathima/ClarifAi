@@ -1,7 +1,7 @@
 # ClarifAi
 
 
-## Check out my live site
+### Check out my live site
 
 [ClarifAi](https://clarifai-ten.vercel.app/)
 
