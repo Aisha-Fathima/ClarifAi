@@ -3,7 +3,7 @@
 
 ## <a name="features"> Features</a>
 
- **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
+ - **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
 
  **Authentication**: Secure user sign-up and sign-in with Clerk; Google authentication and many more.
 
