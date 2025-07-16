@@ -1,6 +1,9 @@
 # ClarifAi
 
 
+## Check out my live site
+
+[ClarifAi](https://clarifai-ten.vercel.app/)
 
 
 ## <a name="features"> Features</a>
