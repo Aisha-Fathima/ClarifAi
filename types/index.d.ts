@@ -1,4 +1,9 @@
-
+// type User = {
+//   name: string;
+//   email: string;
+//   image?: string;
+//   accountId: string;
+// };
 
 enum Subject {
   maths = "maths",
